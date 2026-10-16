@@ -1,0 +1,8 @@
+getal1 = input("geef een eerste getal")
+getal1 = int(getal1)
+getal2 = input("geef een tweede getal")
+getal2 = int(getal2)
+getal3 = input("geef een derde getal")
+getal3 = int(getal3)
+som = int(getal1 + getal2 + getal3)
+print(f"de som is {som}")
